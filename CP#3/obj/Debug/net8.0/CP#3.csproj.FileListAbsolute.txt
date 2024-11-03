@@ -1,0 +1,14 @@
+C:\Users\raul050726\Desktop\C#\CP#3\bin\Debug\net8.0\CP#3.exe
+C:\Users\raul050726\Desktop\C#\CP#3\bin\Debug\net8.0\CP#3.deps.json
+C:\Users\raul050726\Desktop\C#\CP#3\bin\Debug\net8.0\CP#3.runtimeconfig.json
+C:\Users\raul050726\Desktop\C#\CP#3\bin\Debug\net8.0\CP#3.dll
+C:\Users\raul050726\Desktop\C#\CP#3\bin\Debug\net8.0\CP#3.pdb
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\CP#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\CP#3.AssemblyInfoInputs.cache
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\CP#3.AssemblyInfo.cs
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\CP#3.csproj.CoreCompileInputs.cache
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\CP#3.dll
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\refint\CP#3.dll
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\CP#3.pdb
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\CP#3.genruntimeconfig.cache
+C:\Users\raul050726\Desktop\C#\CP#3\obj\Debug\net8.0\ref\CP#3.dll
